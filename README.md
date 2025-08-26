@@ -34,6 +34,8 @@ Libraries & Frameworks:
 ⏳ Time, Sys (for runtime efficiency)
 
 ## Demo Screenshots
+![WhatsApp Image 2025-08-26 at 22 01 07_94f0fb7c](https://github.com/user-attachments/assets/d6e7408a-4747-4590-b8e7-6ac8f22ed578)
+
 
 ## 📊 Visualization
 
